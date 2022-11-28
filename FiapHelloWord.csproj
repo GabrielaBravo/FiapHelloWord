@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Curso\Curso.cs" />
+    <Compile Include="Exceptions\PersonalizadaException.cs" />
+    <Compile Include="Modelo\ClasseBase.cs" />
+    <Compile Include="Modelo\Derivada.cs" />
     <Compile Include="Modelo\HelloModelo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
